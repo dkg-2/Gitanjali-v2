@@ -1,4 +1,16 @@
+---
+title: Gitanjali v2
+emoji: 🕉️
+colorFrom: yellow
+colorTo: orange
+sdk: streamlit
+app_file: app.py
+pinned: false
+---
+
 # 🕉️ Gitanjali v2: The Epic Spiritual Assistant
+
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Gitanjali%20v2-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/dkg-2/Gitanjali-v2)
 
 > *"What if there was someone, like Lord Krishna for Arjun, to talk to me when I felt lost?"*
 
