@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Large model downloads (local)
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
