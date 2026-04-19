@@ -1,8 +1,8 @@
 # 🕉️ Gitanjali v2: The Epic Spiritual Assistant
 
-**Gitanjali v2** is an advanced AI-powered spiritual guide designed to provide compassionate wisdom from the three pillars of Vedic literature: the **Bhagavad Gita**, the **Mahabharata**, and the **Ramayana**. 
+> *"What if there was someone, like Lord Krishna for Arjun, to talk to me when I felt lost?"*
 
-Built with a focus on high-fidelity reasoning and semantic retrieval, Gitanjali acts not as a search engine, but as an enlightened companion for your spiritual journey.
+**Gitanjali v2** is an advanced AI-powered spiritual guide designed to provide compassionate wisdom from the three pillars of Vedic literature: the **Bhagavad Gita**, the **Mahabharata**, and the **Ramayana**. 
 
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit)
 ![LangChain](https://img.shields.io/badge/Orchestration-LangChain-121212?style=for-the-badge&logo=Chainlink)
@@ -11,7 +11,15 @@ Built with a focus on high-fidelity reasoning and semantic retrieval, Gitanjali 
 
 ---
 
-## 🌟 Key Features
+## 🌟 The Vision
+
+Since I started exploring the **Bhagavad Gita**🕉️, I wished for a companion🤝. With 18 chapters and 700 verses, the wisdom of the epics can often feel intimidating. I would search for answers, get confused🤔, and frequently set the book aside.
+
+That's how **Gitanjali** was born. Originally a Gita guide, **Version 2** elevates this vision into an enlightened companion that understands every aspect of the great epics. She speaks in clear language, provides exact scriptural references, and helps you find meaningful answers when you need them🥹. It’s my digital way of bringing timeless⏳ wisdom into our everyday lives.
+
+---
+
+## ✨ Key Features
 
 *   **Expanded Knowledge Base**: Seamlessly retrieves wisdom from the Bhagavad Gita, the great epic Mahabharata, and the virtuous journey of the Ramayana.
 *   **Deep Reasoning**: Powered by **Groq's GPT-OSS-120B** model, capable of complex philosophical synthesis and empathetic conversation.
