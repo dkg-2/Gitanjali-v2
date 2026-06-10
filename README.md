@@ -93,8 +93,8 @@ chain = prompt | llm | StrOutputParser()
 | Mahabharata | *Mahabharata (Unabridged in English)* | English |
 | Ramayana | *Ramayana of Valmiki* by Hari Prasad Shastri | English |
 
-> **Total knowledge base:** ~[X] chunks stored in MongoDB Atlas  
-> *(Run `db.wisdom_base.countDocuments()` in Atlas to get the exact count)*
+> **Total knowledge base:** ~[26,554] chunks stored in MongoDB Atlas  
+
 
 ---
 
